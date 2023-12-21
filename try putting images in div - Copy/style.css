@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+
+.firstimage {
+    /* background-image: url(website\ background\ nf.jfif); */
+    background-image: url(chhtml.jpg); background-size: contain; background-repeat: no-repeat;
+}
+
+.mainclass {
+    
+    color: white;
+    position: relative; left: 90px;
+    
+
+
+    
+}
+
+.banner {background-image: url(first\ image.png); background-repeat: no-repeat; background-size: cover;
+    height: 340px;
+
+
+}
+a:visited {color: white;}
+
+.secondimage {
+    /* background-image: url(website\ background\ nf.jfif); */
+    background-image: url(achtml.jpg); background-size: contain; background-repeat: no-repeat;
+}
